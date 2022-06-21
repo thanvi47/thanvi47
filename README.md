@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  ![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515)
  ![badge-java](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=79740e&labelColor=151515) 
  ![badge-java](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=79740e&labelColor=151515) 
+ ![badge-java](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515)
  <br/>
 <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)
 
