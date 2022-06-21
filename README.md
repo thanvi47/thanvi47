@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **thanvi47/thanvi47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thanvi47&show_icons=true&count_private=true&theme=dark" alt="Thanvi" />
 
 ### My Stacks
-<img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)
+<img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF"> ![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)
+ ![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)
  ![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515)
  ![badge-java](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=79740e&labelColor=151515) 
  ![badge-java](https://img.shields.io/badge/Laravel-151515?style=for-the-badge&logo=laravel&logoColor=79740e&labelColor=151515) 
  ![badge-html](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=79740e&labelColor=151515)
  ![badge-cpp](https://img.shields.io/badge/CSS-151515?&style=for-the-badge&logo=css3&logoColor=79740e&labelColor=151515)
  <br/>
-<img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)
+<img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">
+![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)
 
 ## My Handles
  [<img src="https://img.shields.io/badge/Thanvi-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-mhatheul-hasan-thanvi-9321b8204//)
